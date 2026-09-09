@@ -14,6 +14,10 @@ HTML • CSS • JavaScript • React • Python • Git • GitHub
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" />
 </p>
+## 📊 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aqib769&theme=github-dark" />
+</p>
 
 ## 📂 Projects
 
